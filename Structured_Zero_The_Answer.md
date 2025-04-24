@@ -1,6 +1,7 @@
 # Structured Zero ('The Answer')
 
 **Author:** Marshall Baguley
+
 **License:** Creative Commons Zero (CC0) — No rights reserved. This work is freely released into the public domain.
 
 ---
